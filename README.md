@@ -1,4 +1,5 @@
-## Java-Study
+## Java-Study ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+
 > ### ⭐️ 목표: 자바 문법 기초 다지기
 > 
 > 매주 화, 목 백준 단계별로 풀어보기 문제 한 단계 클리어
